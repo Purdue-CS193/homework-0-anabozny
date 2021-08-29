@@ -4,7 +4,7 @@
 
 - I think I will learn a lot of important information that will help me in the future from CS193.
 
-- CS193 is a pretty straightforward class that shouldn't be hard to succeed in
+- CS193 is a pretty straightforward class that shouldn't be hard to succeed in.
 
 ## welcome to GitHub Pages
 
