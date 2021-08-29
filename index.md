@@ -1,3 +1,11 @@
+# Alek Nabozny's First CS193 Homework
+
+- I like CS193 because I enjoy programming.
+
+- I think I will learn a lot of important information that will help me in the future from CS193.
+
+- CS193 is a pretty straightforward class that shouldn't be hard to succeed in
+
 ## welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
